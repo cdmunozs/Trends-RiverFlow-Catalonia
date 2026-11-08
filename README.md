@@ -54,7 +54,7 @@ The ACA updates these datasets daily, so figures can change slightly between run
 
 ### 1. Most stations show a decline, and this is robust to the filters
 
-The share of stations with a negative trend is **69–70% in all five filter scenarios**, from the baseline to a relaxed one with 77 stations. In the main (most conservative) analysis no station shows a statistically significant increase; in the relaxed scenario 3 do.
+The share of stations with a negative trend is **69–70% in all five filter scenarios**, from the baseline to a relaxed one with 77 stations. In the main (most conservative) analysis no station shows a statistically significant increase; in the relaxed scenario 4 do.
 
 | Scenario | Stations | Negative | Negative & significant | Positive & significant |
 |----------|----------|----------|------------------------|------------------------|
