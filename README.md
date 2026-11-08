@@ -136,7 +136,7 @@ In a regression adjusted for river size, the regulation effect is **-0.1 percent
 ![Trend by category](output/02_trend_by_category.png)
 *Station trends by category: no significant difference between groups*
 
-🌐 **Interactive Map:** [Open Interactive Map](https://raw.githack.com/cdmunozs/Trends_RiverFlow_Catalonia/main/output/catalonia_flow_trends_map.html)
+🌐 **Interactive Map:** [Open Interactive Map](https://raw.githack.com/cdmunozs/Trends-RiverFlow-Catalonia/main/output/catalonia_flow_trends_map.html)
 
 The map shows every station colored by trend, with a black outline for statistically significant ones, and lets you switch between the 2000-2019 and 2000-2026 windows.
 
