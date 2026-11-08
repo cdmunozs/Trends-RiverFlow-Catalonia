@@ -173,8 +173,8 @@ Trends_RiverFlow_Catalonia/
 │   ├── 04_drought_flow_reservoirs.png
 │   ├── catalonia_flow_trends_map.html
 │   └── station_trends_summary.csv
-├── Trends_RiverFlow_Catalonia.ipynb
-└── README.md
+├── README.md
+└── Trends_RiverFlow_Catalonia.ipynb
 ```
 
 ---
