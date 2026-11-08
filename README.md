@@ -14,7 +14,7 @@ The comprehensive analysis includes:
 1. **Automated API Download** — Daily flow records, wastewater treatment plants (EDAR) and reservoir volumes, retrieved directly from the ACA open data portal.
 2. **Data Cleansing & Validation** — Explicit date parsing, discharge-only records, physical range filters and station quality controls (minimum time span, coverage and maximum data gap).
 3. **Trend Analysis per Station** — Mann-Kendall test and Sen's slope on monthly means, expressed as a **percentage of each station's mean flow per year** so that rivers of different sizes are comparable. The autocorrelation-corrected version of the test (Hamed-Rao) and false discovery rate control are applied.
-4. **Overview** — Trneds across the network.
+4. **Overview** — Trends across the network.
 5. **Data quality and coverage** —  Check which stations were excluded and why, how many stations reported data each month, and how many records are exactly zero.
 6. **Robustness Checks** — Five filter scenarios, two time windows and sensitivity of the result to the end year of the series.
 7. **Drought and Storm Gloria** — Flow anomalies by hydrological year next to reservoir storage, and how exceptional the January 2020 storm was at each station.
